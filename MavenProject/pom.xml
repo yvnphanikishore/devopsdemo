@@ -35,7 +35,7 @@
                     <version>2.4</version>
                 </plugin>
                 <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
+                    <groupId>org.maven.plugins</groupId>
                     <artifactId>maven-war-plugin</artifactId>
                     <version>1.6.3</version>
                 </plugin>
